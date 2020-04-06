@@ -4,9 +4,16 @@ https://codepen.io/bradtraversy/pen/OJVaEVN
 https://github.com/Annie-Huang/rellax-landing
 
 https://dixonandmoe.com/rellax/
+https://github.com/dixonandmoe/rellax
 https://cdnjs.com/libraries/font-awesome
 https://cdnjs.com/libraries/rellax
+
 ================================================================================================
 
 C:\react\rellax-landing>npm init -y
 
+
+Speed
+Use the data-rellax-speed attribute to set the speed of a .rellax element to something other than
+the default value (which is -2). A negative value will make it move slower than regular scrolling,
+and a positive value will make it move faster. We recommend keeping the speed between -10 and 10.
