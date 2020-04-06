@@ -2,4 +2,8 @@ https://www.youtube.com/watch?v=aAxt0Z7IXIo     Parallax Landing Page - Rellax.j
 https://codepen.io/bradtraversy/pen/OJVaEVN
 
 https://github.com/Annie-Huang/rellax-landing
+
+https://dixonandmoe.com/rellax/
+https://cdnjs.com/libraries/font-awesome
+https://cdnjs.com/libraries/rellax
 ================================================================================================
